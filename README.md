@@ -14,15 +14,17 @@ Al momento de calcular el total si el cliente del establecimiento tiene tarjeta 
 ## Conceptos Requeridos
 
 1.  Variables
-2.  Integer numbers
-3.  Input/Output
-4.  Print
-5.  If/Else statements
-6.  Loops 
-7.  Try
-8.  Dictionary
-9.  Functions
-10. Documentation
+2.  Float numbers
+3.  Integer numbers
+4.  Input/Output
+5.  Print
+6.  If/Else statements
+7.  Loops 
+8.  Try
+9.  Dictionary
+10. Functions
+11. Documentation
+12. Test Code
 
 
 
