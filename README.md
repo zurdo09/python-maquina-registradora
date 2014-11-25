@@ -3,7 +3,8 @@
 La meta en este proyecto es que puedas crear un aplicacion que utilice los diccionarios de python, tienes que realizar un programa que permita al gerente de una tienda ingresar n artículos con su respectivo precio a una estructura de datos. 
 
 ```
-Nota: antes de ingresar los artículos a la estructura de datos, el usuario debe de decir el valor de n.
+Nota: antes de ingresar los artículos a la estructura de datos, 
+el usuario debe de decir el valor de n.
 ```
 
 Despues de que el gerente ingrese los productos el programa debe permitirle al cajero ingresar una serie de artículos por su respectivo nombre. Al finalizar el ingreso de artículos el programa debe de dar el precio total que corresponde a la suma de artículos y sacar el valor del IVA. 
