@@ -28,4 +28,4 @@ Al momento de calcular el total si el cliente del establecimiento tiene tarjeta 
 
 
 ## Running tests
-Entra en el directorio de tu proyecto y ejecuta **nosetests** en la terminal. El código debería funcionar perfectamente.
+Entra en el directorio de tu proyecto y ejecuta `nosetests` en la terminal. El código debería funcionar perfectamente.
